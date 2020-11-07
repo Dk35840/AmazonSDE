@@ -248,3 +248,62 @@ Input: nums = [0]
 Output: []
 --------------------
 ```
+
+-----------
+
+**[8] 3Sum Closest**:
+
+-----------
+
+**[9] Implement strStr()**:
+
+-----------
+
+**[10] Rotate Image**:
+
+-----------
+
+**[7] Group Anagrams**:
+
+-----------
+
+**[7] Minimum Window Substring**:
+
+-----------
+
+**[11] Compare Version Numbers**:
+
+-----------
+
+**[12] Product of Array Except Self**:
+
+-----------
+
+**[13] Missing Number**:
+
+-----------
+
+**[14] Integer to English Words**:
+
+-----------
+
+**[15] First Unique Character in a String**:
+
+-----------
+
+**[16] Valid Parentheses**:
+
+-----------
+
+**[17] Most Common Word**:
+
+-----------
+
+**[18] Reorder Log Files**:
+
+-----------
+
+**[19] Trapping Rain Water**:
+
+-----------
+
